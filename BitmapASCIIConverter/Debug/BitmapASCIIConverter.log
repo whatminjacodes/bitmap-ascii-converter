@@ -1,0 +1,6 @@
+﻿  BitmapHelper.cpp
+c:\users\misi\documents\own-projects\bitmap-ascii-converter\bitmap-ascii-converter\bitmapasciiconverter\bitmaphelper.cpp(47): error C2039: 'pixelDataAsIntVector': is not a member of 'Bitmap'
+  c:\users\misi\documents\own-projects\bitmap-ascii-converter\bitmap-ascii-converter\bitmapasciiconverter\bitmap.h(45): note: see declaration of 'Bitmap'
+c:\users\misi\documents\own-projects\bitmap-ascii-converter\bitmap-ascii-converter\bitmapasciiconverter\bitmaphelper.cpp(118): warning C4018: '>=': signed/unsigned mismatch
+  ImageConverter.cpp
+  Generating Code...
